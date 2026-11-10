@@ -1,4 +1,4 @@
-cd
-cd akial-clone
-npm install lucide-reactcd
+#cd
+#cd akial-clone
+#npm install lucide-reactcd
 npm run dev &
