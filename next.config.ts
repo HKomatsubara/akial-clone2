@@ -2,7 +2,7 @@ import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
   /* config options here */
-  allowedDevOrigins: ['169.254.162.100'],
+  allowedDevOrigins: ['169.254.211.85'],
   cacheComponents: true,
   partialPrefetching: true,
   turbopack: {

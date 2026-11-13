@@ -26,7 +26,7 @@ interface Facility {
 const INITIAL_FACILITIES: Facility[] = [
   {
    id: "fac-1",
-   name: "グループホーム さくらガーデン新宿",
+   name: "グループホーム aさくらガーデン新宿",
    prefecture: "東京都",
    city: "新宿区",
    address: "東京都新宿区西新宿 1-1-1",
@@ -42,7 +42,7 @@ const INITIAL_FACILITIES: Facility[] = [
  },
  {
    id: "fac-2",
-   name: "ひまわりハイツ 渋谷",
+   name: "ひまわりハイツ11 渋谷",
    prefecture: "東京都",
    city: "渋谷区",
    address: "東京都渋谷区神南 1-2-3",
